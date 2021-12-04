@@ -1,6 +1,6 @@
 # Write Up
 L'objectif est de resourdre les probleme lie au Image sur Github
-![github](https://user-images.githubusercontent.com/95543907/144721370-6220a463-359e-4d7f-9155-fb2e9a94b855.png) 
+>![github](https://user-images.githubusercontent.com/95543907/144721370-6220a463-359e-4d7f-9155-fb2e9a94b855.png) 
   
 - La premiere des chose nous sommes face a une image Github  
          -
@@ -10,7 +10,7 @@ Deuxieme chose on peut essayerd'executer le fichier executable cela marche mais 
 ![linux](https://user-images.githubusercontent.com/95543907/144722266-846a7b58-d058-4cc7-a09e-b439c5ff292f.jpg)  
          -
 Donc on pourrait se dire de proceder a du reverse. Mais on va y aller autrement Car on a au moins le.  
- ![linux1](https://user-images.githubusercontent.com/95543907/144722354-938afa19-5841-4900-8e0b-5a08a3f3cc8d.jpg)  
+![linux1](https://user-images.githubusercontent.com/95543907/144722354-938afa19-5841-4900-8e0b-5a08a3f3cc8d.jpg)  
          - Apres lecture du code source on voit que notre programme prend en parametre des argument dont le second sera executable a moins qu'elle ne contienne pas de f_l_a_g_","_","*"  
          -
 Il va falloir creeer une expression reguliere pour lire le flag vu que notre PATH a ete infecte.  
